@@ -1,2 +1,2 @@
-# ZHAW_CAS2_Betriebssysteme
+# ZHAW_CS2_Betriebssysteme
 Code solutions etc.
