@@ -1,2 +1,2 @@
-# ZHAW_CAS2_-Betriebssysteme
-Excerpts of code etc.
+# ZHAW_CAS2_Betriebssysteme
+Code solutions etc.
